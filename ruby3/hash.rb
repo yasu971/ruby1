@@ -5,3 +5,4 @@ teacher[:subject] = "English"
 
 puts student
 puts teacher
+puts teacher[:name]
